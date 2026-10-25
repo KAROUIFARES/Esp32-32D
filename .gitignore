@@ -1,0 +1,5 @@
+# Proteus backups and temporary files
+Project Backups/
+*.workspace
+*.pdsbak
+*.LOG
